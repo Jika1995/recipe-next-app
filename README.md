@@ -1,5 +1,8 @@
 This is a Next.js project bootstrapped with create-next-app.
 
+TechStack: 
+Tailwind, Mantine, Typescript, Tanstack React Query, Axios, ReduxJs Toolkit
+
 Getting Started First, clone this repository and install modules:
 
 npm i pnpm i
